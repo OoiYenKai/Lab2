@@ -12,7 +12,6 @@ def calculate_bmi(height, weight):
     else:
         print("Over Weight")
         return 1
-    assert ()
 
 if __name__ == "__main__":
     calculate_bmi(weight = 60, height = 1.53)
